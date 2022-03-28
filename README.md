@@ -7,7 +7,7 @@
                             <!-- 노션 주소 넣으시면 됩니다 -->    
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
-    <td align=center><a href="https://copper-way-3a6.notion.site/4319568ac2b142c78c7b941a201413ec">@nheo</a></td>
+    <td align=center><a href="https://copper-way-3a6.notion.site/943e89496995448da33ebc090d84f469">@nheo</a></td>
   </tr>
 </table>
 
