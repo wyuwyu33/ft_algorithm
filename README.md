@@ -12,7 +12,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/943e89496995448da33ebc090d84f469">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/4319568ac2b142c78c7b941a201413ec">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
@@ -34,7 +34,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/d9b8cebc255a4ba797e21b5bf4c0e929">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
@@ -45,7 +45,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/DFS-BFS-1fcd97159ca34efc80371d0af6a1f81d">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
@@ -56,7 +56,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/f6e9c51320ac4bf38fa0d580b7bd382e">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
@@ -67,7 +67,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/069af80915214356a7ab9e8b00367c53">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
@@ -78,7 +78,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/08b83d82a8dc49a4ab67258379f1a803">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
@@ -89,7 +89,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/13f038cf655944b5987eab66ae1981eb">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
@@ -100,7 +100,7 @@
     <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/7b77444fa0144606ae8a37b17f778b94">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@reg0145</a></td>
+    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
 
