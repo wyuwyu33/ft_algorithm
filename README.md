@@ -2,10 +2,10 @@
 > 재미있고 신나는 알고리즘 스터디~ : 
 > 
 # 3.28 스택/큐, 4장(스택, 큐, 트리)까지
-<a href="https://www.acmicpc.net/problem/1920">수 찾기(스택)</a>
-<a href="https://www.acmicpc.net/problem/9012">괄호(스택)</a>
-<a href="https://www.acmicpc.net/problem/1021">회전하는 큐</a>
-<a href="https://www.acmicpc.net/problem/13335">트럭(큐)</a>
+- <a href="https://www.acmicpc.net/problem/1920">수 찾기(스택)</a>
+- <a href="https://www.acmicpc.net/problem/9012">괄호(스택)</a>
+- <a href="https://www.acmicpc.net/problem/1021">회전하는 큐</a>
+- <a href="https://www.acmicpc.net/problem/13335">트럭(큐)</a>
 <table>
   <tr>
                             <!-- 노션 주소 넣으시면 됩니다 -->    
