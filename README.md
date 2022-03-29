@@ -12,7 +12,7 @@
     <td align=center><a href="https://carnelian-pen-f2c.notion.site/Stack-Queue-Tree-fbecf48f2d1e44cdad245967b46b4b06">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
     <td align=center><a href="https://copper-way-3a6.notion.site/943e89496995448da33ebc090d84f469">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
+    <td align=center><a href="https://graceful-atom-bb0.notion.site/Stack-6f54a284d8564f158f60423e4f316517">@donghyuk</a></td>
   </tr>
 </table>
 
