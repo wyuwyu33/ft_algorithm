@@ -1,6 +1,6 @@
 # FT_Algorithm
 > 재미있고 신나는 알고리즘 스터디~
-
+> 문제 : <a href="https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit">문제 풀러 가기</a>
 # 3.28 스택/큐, 4장(스택, 큐, 트리)까지
 <table>
   <tr>
