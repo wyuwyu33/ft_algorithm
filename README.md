@@ -3,6 +3,16 @@
 > 
 # 3.28 스택/큐, 4장(스택, 큐, 트리)까지
 - <a href="https://leetcode.com/problems/min-stack/">Min stack(스택)</a>
+<table>
+  <tr>
+    <td><ul><li> - [ ] nakkim </ul></li></td>
+    <td><ul><li> - [ ] silee </ul></li></td>
+    <td><ul><li> - [x] nheo </ul></li></td>
+    <td><ul><li> - [ ] donghyuk </ul></li></td>
+    <td><ul><li> - [ ] jayoon </ul></li></td>
+</tr>
+</table>
+
 - <a href="https://leetcode.com/problems/valid-parentheses/">괄호(스택)</a>
 - <a href="https://leetcode.com/problems/implement-stack-using-queues/">implement-stack-using-queues</a>
 - <a href="https://leetcode.com/problems/implement-queue-using-stacks/">implement-queue-using-stacks</a>
