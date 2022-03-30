@@ -14,6 +14,12 @@
     <td align=center><a href="https://copper-way-3a6.notion.site/943e89496995448da33ebc090d84f469">@nheo</a></td>
     <td align=center><a href="https://graceful-atom-bb0.notion.site/Stack-6f54a284d8564f158f60423e4f316517">@donghyuk</a></td>
   </tr>
+  <tr>
+    <td align=center><input type="checkbox">
+    <td align=center><input type="checkbox">
+    <td align=center><input type="checkbox">
+    <td align=center><input type="checkbox">
+  </tr>
 </table>
 
 # 4/4 정렬, 이분탐색 5, 6장(정렬, 트리 탐색)
