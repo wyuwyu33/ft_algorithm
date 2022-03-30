@@ -6,6 +6,16 @@
 - <a href="https://leetcode.com/problems/valid-parentheses/">괄호(스택)</a>
 - <a href="https://leetcode.com/problems/implement-stack-using-queues/">implement-stack-using-queues</a>
 - <a href="https://leetcode.com/problems/implement-queue-using-stacks/">implement-queue-using-stacks</a>
+
+[@nakkim]: https://carnelian-pen-f2c.notion.site/Stack-Queue-Tree-fbecf48f2d1e44cdad245967b46b4b06
+[@silee]: https://github.com/SihunLee-1016
+[@nheo]: https://copper-way-3a6.notion.site/943e89496995448da33ebc090d84f469
+[@donghyuk]: https://graceful-atom-bb0.notion.site/Stack-6f54a284d8564f158f60423e4f316517
+
+| | [@nakkim] | [@silee] | [@nheo] | [@donghyuk] |
+|-|:----------|:---------|:--------|:------------|
+| |Calendar Cache | > 5 hours  | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul> |
+
 <table>
   <tr>
                             <!-- 노션 주소 넣으시면 됩니다 -->
@@ -16,10 +26,8 @@
     <td align=center><a href="https://graceful-atom-bb0.notion.site/Stack-6f54a284d8564f158f60423e4f316517">@donghyuk</a></td>
   </tr>
   <tr>
-    <td align=center><input type="checkbox">
-    <td align=center><input type="checkbox">
-    <td align=center><input type="checkbox">
-    <td align=center><input type="checkbox">
+    <td align=center><a href="https://leetcode.com/problems/min-stack/">Min stack(스택)</a></td>
+
   </tr>
 </table>
 
@@ -33,7 +41,7 @@
     <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
   </tr>
 </table>
-
+  
 # 4/11 해시, 힙 7~8장(우선순위 큐와 힙, 해시테이블)
 <table>
   <tr>
