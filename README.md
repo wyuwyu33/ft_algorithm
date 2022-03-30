@@ -7,16 +7,6 @@
 - <a href="https://leetcode.com/problems/implement-stack-using-queues/">implement-stack-using-queues</a>
 - <a href="https://leetcode.com/problems/implement-queue-using-stacks/">implement-queue-using-stacks</a>
 
-<!--
-[@nakkim]: https://carnelian-pen-f2c.notion.site/Stack-Queue-Tree-fbecf48f2d1e44cdad245967b46b4b06
-[@silee]: https://github.com/SihunLee-1016
-[@nheo]: https://copper-way-3a6.notion.site/943e89496995448da33ebc090d84f469
-[@donghyuk]: https://graceful-atom-bb0.notion.site/Stack-6f54a284d8564f158f60423e4f316517
-
-| | [@nakkim] | [@silee] | [@nheo] | [x] [@donghyuk] |
-|-|:----------|:---------|:--------|:------------|
-| |Calendar Cache | > 5 hours  | in progress | &check; |
--->
 <table>
   <tr>
                             <!-- 노션 주소 넣으시면 됩니다 -->
