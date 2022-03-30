@@ -4,7 +4,7 @@
 # 3.28 스택/큐, 4장(스택, 큐, 트리)까지
 <table>
   <tr>
-                            <!-- 노션 주소 넣으시면 됩니다 -->
+    <!-- 노션 주소 넣으시면 됩니다 -->
     <td> </td>
     <td align=center><a href="https://carnelian-pen-f2c.notion.site/Stack-Queue-Tree-fbecf48f2d1e44cdad245967b46b4b06">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
