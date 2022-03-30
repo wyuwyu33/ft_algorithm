@@ -2,13 +2,6 @@
 > 재미있고 신나는 알고리즘 스터디~ : 
 > 
 # 3.28 스택/큐, 4장(스택, 큐, 트리)까지
-<!--
-- <a href="https://leetcode.com/problems/min-stack/">Min stack(스택)</a>
-- <a href="https://leetcode.com/problems/valid-parentheses/">괄호(스택)</a>
-- <a href="https://leetcode.com/problems/implement-stack-using-queues/">implement-stack-using-queues</a>
-- <a href="https://leetcode.com/problems/implement-queue-using-stacks/">implement-queue-using-stacks</a>
--->
-
 <table>
   <tr>
                             <!-- 노션 주소 넣으시면 됩니다 -->
@@ -21,7 +14,7 @@
   </tr>
   
   <!-- Min stack(스택) -->
-  <tr align=center >
+  <tr align=center>
     <td align=left><a href="https://leetcode.com/problems/min-stack/"> Min stack(스택) </a></td>
     <td id= nakkim  >✅</td>
     <td id= sile    > </td>
@@ -31,7 +24,7 @@
   </tr>
   
   <!-- 괄호(스택) -->
-  <tr id= 괄호(스택) align=center >
+  <tr align=center>
     <td align=left><a href="https://leetcode.com/problems/valid-parentheses/"> 괄호(스택) </a></td>
     <td id= nakkim  > </td>
     <td id= sile    > </td>
@@ -41,7 +34,7 @@
   </tr>
   
   <!-- implement-stack-using-queues -->
-  <tr align=center >
+  <tr align=center>
     <td align=left><a href="https://leetcode.com/problems/implement-stack-using-queues/">implement-stack...</a></td>
     <td id= nakkim  > </td>
     <td id= sile    > </td>
@@ -51,7 +44,7 @@
   </tr>
   
   <!-- implement-queue-using-stacks -->
-  <tr align=center >
+  <tr align=center>
     <td align=left><a href="https://leetcode.com/problems/implement-queue-using-stacks">implement-queue... </a></td>
     <td id= nakkim  > </td>
     <td id= sile    > </td>
@@ -149,3 +142,10 @@
   </tr>
 </table>
 
+
+<!--
+- <a href="https://leetcode.com/problems/min-stack/">Min stack(스택)</a>
+- <a href="https://leetcode.com/problems/valid-parentheses/">괄호(스택)</a>
+- <a href="https://leetcode.com/problems/implement-stack-using-queues/">implement-stack-using-queues</a>
+- <a href="https://leetcode.com/problems/implement-queue-using-stacks/">implement-queue-using-stacks</a>
+-->
