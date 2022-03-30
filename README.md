@@ -26,7 +26,7 @@
   <!-- 괄호(스택) -->
   <tr align=center>
     <td align=left><a href="https://leetcode.com/problems/valid-parentheses/"> 괄호(스택) </a></td>
-    <td id= nakkim  > </td>
+    <td id= nakkim  >✅</td>
     <td id= sile    > </td>
     <td id= nheo    > </td>
     <td id= donghyuk>✅</td>
