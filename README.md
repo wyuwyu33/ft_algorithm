@@ -39,7 +39,7 @@
     <td id= nakkim  > </td>
     <td id= sile    > </td>
     <td id= nheo    >✅</td>
-    <td id= donghyuk>✅</td>
+    <td id= donghyuk> </td>
     <td id= jayoon  > </td>
   </tr>
   
