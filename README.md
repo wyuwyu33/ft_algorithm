@@ -48,7 +48,7 @@
     <td align=left><a href="https://leetcode.com/problems/implement-queue-using-stacks">implement-queue... </a></td>
     <td id= nakkim  >✅</td>
     <td id= sile    > </td>
-    <td id= nheo    > </td>
+    <td id= nheo    >✅</td>
     <td id= donghyuk> </td>
     <td id= jayoon  > </td>
   </tr>
