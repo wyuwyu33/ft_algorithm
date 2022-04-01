@@ -149,3 +149,6 @@
 - <a href="https://leetcode.com/problems/implement-stack-using-queues/">implement-stack-using-queues</a>
 - <a href="https://leetcode.com/problems/implement-queue-using-stacks/">implement-queue-using-stacks</a>
 -->
+
+# 참고
+https://copper-way-3a6.notion.site/Git-1802e374315f4ce7a25a8c2971e8c267
