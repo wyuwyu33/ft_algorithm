@@ -11,7 +11,7 @@
 #include <stdlib.h>
 
 typedef struct s_node{		// 이중연결 리스트
-    int val;				
+    int val;
     struct s_node *next;	// 다음 노드
     struct s_node *prev;	// 이전 노드
 }   t_Node;
@@ -28,7 +28,7 @@ typedef struct myQueue{
 /*
  * Stack Push
  * * 스택이 비어있을 경우, top노드에 new노드 대입
- * * 스택이 비어있지 않을 경우, top노드와 new노드의 이중연결 적용 
+ * * 스택이 비어있지 않을 경우, top노드와 new노드의 이중연결 적용
  * */
 void    push(t_Stack *stack, int val)
 {
@@ -48,7 +48,7 @@ void    push(t_Stack *stack, int val)
 
 /*
  * Stack pop
- * * top노드의 데이터를 꺼내 result에 저장 (나중에 result리턴)
+ * * top노드 데이터를 꺼내 반환
  * * top노드 위치를 한 칸 밑으로 이동 및 top노드 할당 해제
  * */
 int    pop(t_Stack *stack)
@@ -129,8 +129,9 @@ void myQueuePush(MyQueue* q, int val) {
 }
 
 /*
- * myQueuePush
- * * pop 스택에 노드 
+ * myQueuePOP
+ * * pop 스택의 데이터가 비어있지 않을 경우 데이터 반환 후 제거
+ * * pop 스택의 데이터가 비어있을 경우 push 스택의 데이터를 pop 스택으로 전달
  * */
 int myQueuePop(MyQueue* q) {
     if (isStackEmpty(q->popS))
@@ -143,6 +144,10 @@ int myQueuePop(MyQueue* q) {
     return (pop(q->popS));
 }
 
+/*
+ * myQueuePeek
+ * * pop과 처리가 동일하나 데이터 제거는 하지않고 반환만 수행
+ * */
 int myQueuePeek(MyQueue* q) {
     if (isStackEmpty(q->popS))
     {
@@ -154,10 +159,18 @@ int myQueuePeek(MyQueue* q) {
     return (q->popS->top->val);
 }
 
+/*
+ * myQueueEmpty
+ * * push스택과 pop스택이 둘 다 비었는지 확인
+ * */
 bool myQueueEmpty(MyQueue* q) {
     return (isStackEmpty(q->popS) && isStackEmpty(q->pushS));
 }
 
+/*
+ * myQueueEmpty
+ * * Push스택, Pop스택 먼저 할당 해제 후 Queue 할당 해제
+ * */
 void myQueueFree(MyQueue* q) {
 	freeStack(q->popS);
 	freeStack(q->pushS);
