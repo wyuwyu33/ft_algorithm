@@ -49,7 +49,7 @@
     <td id= nakkim  >✅</td>
     <td id= sile    > </td>
     <td id= nheo    >✅</td>
-    <td id= donghyuk> </td>
+    <td id= donghyuk>✅</td>
     <td id= jayoon  > </td>
   </tr>
 </table>
@@ -57,11 +57,49 @@
 # 4/4 정렬, 이분탐색 5, 6장(정렬, 트리 탐색)
 <table>
   <tr>
-                            <!-- 노션 주소 넣으시면 됩니다 -->    
-    <td align=center><a href="https://github.com/rurruur">@nakkim</a></td>
+    <!-- 노션 주소 넣으시면 됩니다 -->
+    <td> </td>
+    <td align=center><a href="https://carnelian-pen-f2c.notion.site/Stack-Queue-Tree-fbecf48f2d1e44cdad245967b46b4b06">@nakkim</a></td>
     <td align=center><a href="https://github.com/SihunLee-1016">@silee</a></td>
-    <td align=center><a href="https://copper-way-3a6.notion.site/4319568ac2b142c78c7b941a201413ec">@nheo</a></td>
-    <td align=center><a href="https://github.com/reg0145">@donghyuk</a></td>
+    <td align=center><a href="https://copper-way-3a6.notion.site/943e89496995448da33ebc090d84f469">@nheo</a></td>
+    <td align=center><a href="https://graceful-atom-bb0.notion.site/Stack-6f54a284d8564f158f60423e4f316517">@donghyuk</a></td>
+    <td align=center><a href="https://jayoon.notion.site/ea7ae9b90d834be0a02b3b84cfb64d8c">@jayoon</a></td>
+  </tr>
+  
+  <tr align=center>
+    <td align=left><a href="https://leetcode.com/problems/min-stack/"> </a></td>
+    <td id= nakkim  > </td>
+    <td id= sile    > </td>
+    <td id= nheo    ></td>
+    <td id= donghyuk></td>
+    <td id= jayoon  > </td>
+  </tr>
+  
+  <tr align=center>
+    <td align=left><a href="https://leetcode.com/problems/valid-parentheses/"> </a></td>
+    <td id= nakkim  ></td>
+    <td id= sile    ></td>
+    <td id= nheo    ></td>
+    <td id= donghyuk></td>
+    <td id= jayoon  ></td>
+  </tr>
+  
+  <tr align=center>
+    <td align=left><a href="https://leetcode.com/problems/implement-stack-using-queues/"> </a></td>
+    <td id= nakkim  ></td>
+    <td id= sile    ></td>
+    <td id= nheo    ></td>
+    <td id= donghyuk></td>
+    <td id= jayoon  ></td>
+  </tr>
+  
+  <tr align=center>
+    <td align=left><a href="https://leetcode.com/problems/implement-queue-using-stacks"> </a></td>
+    <td id= nakkim  ></td>
+    <td id= sile    ></td>
+    <td id= nheo    ></td>
+    <td id= donghyuk></td>
+    <td id= jayoon  ></td>
   </tr>
 </table>
   
