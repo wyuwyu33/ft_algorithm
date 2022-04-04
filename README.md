@@ -85,7 +85,7 @@
   </tr>
   
   <tr align=center>
-    <td align=left><a href="https://leetcode.com/problems/implement-stack-using-queues/"> </a></td>
+    <td align=left><a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">convert-sorted-...</a></td>
     <td id= nakkim  ></td>
     <td id= sile    ></td>
     <td id= nheo    ></td>
@@ -94,7 +94,7 @@
   </tr>
   
   <tr align=center>
-    <td align=left><a href="https://leetcode.com/problems/implement-queue-using-stacks"> </a></td>
+    <td align=left><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">kth-largest...</a></td>
     <td id= nakkim  ></td>
     <td id= sile    ></td>
     <td id= nheo    ></td>
