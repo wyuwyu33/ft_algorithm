@@ -67,7 +67,7 @@
   </tr>
   
   <tr align=center>
-    <td align=left><a href="https://leetcode.com/problems/min-stack/"> </a></td>
+    <td align=left><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">median-of-two...</a></td>
     <td id= nakkim  > </td>
     <td id= sile    > </td>
     <td id= nheo    ></td>
