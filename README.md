@@ -84,7 +84,7 @@
     <td id= nheo    ></td>
     <td id= donghyuk></td>
     <td id= jayoon  ></td>
-    <td id= wyu     > </td>
+    <td id= wyu     >✅</td>
   </tr>
   
   <tr align=center>
