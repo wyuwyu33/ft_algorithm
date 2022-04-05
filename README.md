@@ -64,6 +64,7 @@
     <td align=center><a href="https://copper-way-3a6.notion.site/943e89496995448da33ebc090d84f469">@nheo</a></td>
     <td align=center><a href="https://graceful-atom-bb0.notion.site/Stack-6f54a284d8564f158f60423e4f316517">@donghyuk</a></td>
     <td align=center><a href="https://jayoon.notion.site/ea7ae9b90d834be0a02b3b84cfb64d8c">@jayoon</a></td>
+    <td align=center><a href="https://peach-makemake-622.notion.site/4-4-5-6-a4cf1928efc14a82a0ce93956d5d4345">@wyu</a></td>
   </tr>
   
   <tr align=center>
@@ -73,6 +74,7 @@
     <td id= nheo    ></td>
     <td id= donghyuk></td>
     <td id= jayoon  > </td>
+    <td id= wyu     > </td>
   </tr>
   
   <tr align=center>
@@ -82,6 +84,7 @@
     <td id= nheo    ></td>
     <td id= donghyuk></td>
     <td id= jayoon  ></td>
+    <td id= wyu     > </td>
   </tr>
   
   <tr align=center>
@@ -91,6 +94,7 @@
     <td id= nheo    ></td>
     <td id= donghyuk></td>
     <td id= jayoon  ></td>
+    <td id= wyu     > </td>
   </tr>
   
   <tr align=center>
@@ -100,6 +104,7 @@
     <td id= nheo    ></td>
     <td id= donghyuk></td>
     <td id= jayoon  ></td>
+    <td id= wyu     > </td>
   </tr>
 </table>
   
